@@ -1,3 +1,3 @@
 ## Cuda - An awesome single pages design
 
-#### Live Link : [https://harrier-8decd.web.app/](https://harrier-8decd.web.app/)
+#### Live Link : [https://cuda-app.netlify.app/](https://cuda-app.netlify.app/)
